@@ -14,6 +14,8 @@ Next.JS, HTML, CSS, Vanilla JS, etc.
 
 Communication is very important to me so lets keep in touch 😊.
 
+i have worked on many projects and will be uploading them anually (just started using github professionally😋)
+
 
 - 📫 How to reach me:
 - Portfolio: https://moussa77.vercel.app/
