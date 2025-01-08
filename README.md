@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-I'm a computer science engineer. i hope you like my profile 😊. enjoy your stay 😁.
+I'm a Data scientist. i hope you like my profile 😊. enjoy your stay 😁.
 
 Worked with many concepts like:
 OOP, SQL, Statistics, LLM, NLP, etc. 
 
 expert in:
 many python libraries like:
-pandas, tensorflow, numpy, django etc.
+pandas, tensorflow, numpy, flask, opencv, nltk/spacy, scikitlearn, matplotlib... and many mooore..
 
 familiar with:
-Next.JS, HTML, CSS, Vanilla JS, etc.
+HTML, CSS and Vanilla JS.
 
 Communication is very important to me so lets keep in touch 😊.
 
